@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: 84vh;
+    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    padding-block: 3vh;
+}
+
+@media (min-width: 768px) {
+    p {
+        font-size: 1.4em;
+    }
+    
+    main {
+        padding-block: 4vh;
+    }
+}

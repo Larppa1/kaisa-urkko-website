@@ -1,8 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Landing from './pages/Landing'
-import Services from './pages/Services'
-import Pricing from './pages/Pricing'
-import Contact from './pages/Contact'
+import Landing from './pages/Landing/Landing'
+import Services from './pages/Services/Services'
+import Pricing from './pages/Pricing/Pricing'
+import Contact from './pages/Contact/Contact'
+import './App.css'
 
 export default function App() {
   return (
@@ -14,5 +15,5 @@ export default function App() {
         <Route path='/yhteystiedot' element={<Contact />}></Route>
       </Routes>
     </Router>
-  );
+  )
 }

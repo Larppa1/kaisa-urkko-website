@@ -1,0 +1,13 @@
+#navbar {
+    min-height: 8vh;
+    height: 8vh;
+    max-height: 8vh;
+}
+
+@media (min-width: 768px) {
+    #navbar {
+        min-height: 10vh;
+        height: 10vh;
+        max-height: 10vh;
+    }
+}

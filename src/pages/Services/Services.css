@@ -1,0 +1,38 @@
+#servicesMain > article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 100%;
+    padding-inline: 4vw;
+    text-align: center;
+}
+
+#servicesMain > article > section:last-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#servicesMain > article > section:last-of-type > img {
+    width: 80%;
+    height: 80%;
+}
+
+@media (min-width: 768px) {
+    #servicesMain > article {
+        flex-direction: row-reverse;
+    }
+
+    #servicesMain > article > section:first-of-type {
+        width: 60%;
+    }
+
+    #servicesMain > article > section:last-of-type {
+        width: 40%;
+    }
+
+    #servicesMain > article > section:last-of-type > img {
+        width: 60%;
+        height: 60%;
+    }
+}

@@ -23,7 +23,7 @@ export default function Landing() {
                         </section>
                         <section>
                             <div>
-                                <p>Olen vuonna 2021 Tampereen urheiluhierojakoulusta valmistunut koulutettu hieroja. Toimitilani sijaitsevat Pälkäneen keskustassa, Onkkalan VPK:n tiloissa.<br/><br/>Lisäksi teen kotikäyntejä pääosin Pälkäneen, Kangasalan sekä Hauhon alueella.</p>
+                                <p>Olen vuonna 2021 Tampereen urheiluhierojakoulusta valmistunut koulutettu hieroja. Toimitilani sijaitsevat Pälkäneen keskustassa.<br/><br/>Lisäksi teen kotikäyntejä pääosin Pälkäneen, Kangasalan sekä Hauhon alueella.</p>
                             </div>
                             <div>
                                 <img src="https://i.ibb.co/0KjTpWx/kaisa-1.webp" alt=''/>
@@ -56,7 +56,7 @@ export default function Landing() {
                         </section>
                         <section>
                             <div>
-                                <p>Olen vuonna 2021 Tampereen urheiluhierojakoulusta valmistunut koulutettu hieroja. Toimitilani sijaitsevat Pälkäneen keskustassa, Onkkalan VPK:n tiloissa.<br/><br/>Lisäksi teen kotikäyntejä pääosin Pälkäneen, Kangasalan sekä Hauhon alueella.</p>
+                                <p>Olen vuonna 2021 Tampereen urheiluhierojakoulusta valmistunut koulutettu hieroja. Toimitilani sijaitsevat Pälkäneen keskustassa.<br/><br/>Lisäksi teen kotikäyntejä pääosin Pälkäneen, Kangasalan sekä Hauhon alueella.</p>
                             </div>
                             <div>
                                 <img src="https://i.ibb.co/0KjTpWx/kaisa-1.webp" alt=''/>

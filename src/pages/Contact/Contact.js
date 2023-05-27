@@ -15,6 +15,7 @@ export default function Contact() {
                         <section>
                             <h2>Kaisa Urkko</h2>
                             <h3>puh. 040 808 5338</h3>
+                            <h3>Koulutie 3, 36600 Pälkäne</h3>
                         </section>
                         <section id='socialContainer'>
                             <section>
@@ -50,6 +51,7 @@ export default function Contact() {
                         <section>
                             <h2>Kaisa Urkko</h2>
                             <h3>puh. 040 808 5338</h3>
+                            <h3>Koulutie 3, 36600 Pälkäne</h3>
                         </section>
                         <section id='socialContainer'>
                             <section>

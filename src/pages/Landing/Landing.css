@@ -3,7 +3,7 @@
 }
 
 #landingMain > article {
-    min-width: 100%;
+    min-width: 100vw;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@
     background-image: url('https://i.ibb.co/9g84C2b/banner-photo.webp');
     background-size: cover;
     background-position: center;
-    width: 100%;
+    width: 100vw;
     padding-block: 2vh;
 }
 

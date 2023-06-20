@@ -28,6 +28,7 @@ export default function Navbar() {
             <header id="navbar" className="navbar bg-primary text-primary-content">
                     <div className="flex-1">
                         <Link className="btn btn-ghost normal-case text-xl" to='/' >Urheiluhieroja Kaisa Urkko</Link>
+                        <img src="https://i.ibb.co/JchFj5r/IMG-0400.jpg" alt="" width={window.innerHeight * 0.08} style={{borderRadius: 14, marginLeft: '2%'}} />
                     </div>
                     <div className="flex-none">
                         <ul className="menu menu-horizontal p-0">

@@ -10,9 +10,10 @@ export default function Pricing() {
             </header>
             <main id='pricingMain'>
                 <article className='prose'>
-                    <section>
+                    <section style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
                         <h1>Hinnasto</h1>
-                        <img src="https://i.ibb.co/r7YLwZp/IMG-0117.jpg" width={window.innerWidth < 1280 ? "75%" : "33%"} />
+                        <img src="https://i.ibb.co/r7YLwZp/IMG-0117.jpg" width={window.innerWidth < 1280 ? "75%" : "33%"} alt="" />
+                        <p style={{textAlign: 'center'}}>Opiskelija-alennus -5€ per hoitokerta! Muistathan ottaa voimassa olevan opiskelijakortin mukaan :)</p>
                     </section>
                 </article>
             </main>

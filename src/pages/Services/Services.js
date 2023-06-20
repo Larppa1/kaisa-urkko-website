@@ -18,7 +18,7 @@ export default function Services() {
                             </p>
                     </section>
                     <section>
-                        <img src="https://i.ibb.co/Ssj8w1h/prop-1.webp" alt=''/>
+                        <img src="https://i.ibb.co/sKtCLyb/IMG-0401.jpg" alt='' style={{borderRadius: 14}}/>
                     </section>
                 </article>
             </main>
